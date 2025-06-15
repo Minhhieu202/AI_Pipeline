@@ -37,3 +37,4 @@ Mô hình đầu ra bounding boxes của cầu thủ (và bóng) trong từng kh
 - Class 11: Từ số 11 trở lên.
 
 Lưu ý quan trọng: Các model sử dụng được train qua kaggle để sử dụng 
+model: player_classification.pt, player_detector.pt
